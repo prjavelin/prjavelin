@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Silva</h1>
 <h3 align="center">A passionate Full Stack developer from Puerto Rico</h3>
 
-- 🔭 I’m currently working on **100Devs**
+- 🔭 I’m currently working on **100Devs/Freelancing**
 
 - 🌱 I’m currently learning **MERN**
 
