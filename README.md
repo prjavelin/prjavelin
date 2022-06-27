@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **C++**
 
-- 👨‍💻 All of my projects are available at juansilvadev.netlify.app
+- 👨‍💻 All of my projects are available at https://juansilvadev.netlify.app
 
 - 📫 How to reach me **prjavelin@gmail.com**
 
