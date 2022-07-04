@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prjavelin@gmail.com**
 
-- ⚡ Fun fact **Whilst 3d printing the desire to understand the code made my realize I wanted to go back to my coding roots.**
+- ⚡ Fun fact **Whilst 3d printing the desire to improve the code made me realize I wanted to go back to my coding roots.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
