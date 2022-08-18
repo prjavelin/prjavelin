@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **C++**
+- 🤝 I’m looking for help with **REACT.JS**
 
 - 👨‍💻 All of my projects are available at https://juansilvadev.netlify.app
 
