@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prjavelin@gmail.com**
 
-- 📄 Top 0.695% honor percentile on CodeWars
+- 📄 Top 0.6900% honor percentile on CodeWars
 
 - ⚡ Fun fact **I have dreamt of ways to solve codewars problems, woken up, ran to the pc and solved a difficult problem  ;D**
 
