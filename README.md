@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **100Devs/Freelancing**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **REACT.JS**
+- 🤝 I’m looking for help with **React.js**
 
 - 👨‍💻 All of my projects are available at https://juansilvadev.netlify.app
 
