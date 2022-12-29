@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **100 Devs/Freelancing**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js & C#/ASP.NET/Blazor stack**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **React.js**
+- 🤝 I’m looking for help with **C#**
 
 - 👨‍💻 All of my projects are available at https://juansilvadev.netlify.app
 
